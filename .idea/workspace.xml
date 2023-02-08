@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ecdb19aa-67fb-4e36-9507-54ac90d1d402" name="Changes" comment="Aktueller Stand">
+      <change afterPath="$PROJECT_DIR$/src/main/resourcen/PerformanceReal_10x10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/obj/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/obj/ChessBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resourcen/PerformanceAll_10x10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resourcen/PerformanceAll_10x10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resourcen/PerformanceAll_8x8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resourcen/PerformanceAll_8x8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resourcen/PerformanceReal_8x8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resourcen/PerformanceReal_8x8.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IwztKYE5F8iZKZ5ea4wb9RgJNb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.ChangelistConflict" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="solver" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestFramePerformance">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Application" />
+      <module name="is_damenproblem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GATest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="solver.GATest" />
+      <module name="is_damenproblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="solver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFrameGeneticAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestFrameGeneticAlgorithm" />
+      <module name="is_damenproblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFramePerformance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestFramePerformance" />
+      <module name="is_damenproblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFrameSimAnnealing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestFrameSimAnnealing" />
+      <module name="is_damenproblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestFramePerformance" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.TestFrameGeneticAlgorithm" />
+        <item itemvalue="Application.TestFrameSimAnnealing" />
+        <item itemvalue="Application.GATest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecdb19aa-67fb-4e36-9507-54ac90d1d402" name="Changes" comment="" />
+      <created>1671107648825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671107648825</updated>
+      <workItem from="1671107650608" duration="11795000" />
+      <workItem from="1671176595930" duration="7690000" />
+      <workItem from="1671189650066" duration="3875000" />
+      <workItem from="1671471221183" duration="12152000" />
+      <workItem from="1671541282285" duration="5170000" />
+      <workItem from="1671609664209" duration="1372000" />
+      <workItem from="1671618885971" duration="7564000" />
+      <workItem from="1671782667858" duration="6780000" />
+      <workItem from="1671966316072" duration="29863000" />
+      <workItem from="1672305101368" duration="17590000" />
+      <workItem from="1672428695127" duration="4439000" />
+      <workItem from="1672586345136" duration="1148000" />
+      <workItem from="1675763818082" duration="2859000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Checkin">
+      <created>1671110188657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671110188657</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Lauffähige Version">
+      <created>1671118536009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671118536009</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Optimierung eingebaut.">
+      <created>1671539905768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671539905768</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Aktueller Stand">
+      <created>1672148699304</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672148699304</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Aktueller Stand">
+      <created>1672496738619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672496738619</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First Checkin" />
+    <MESSAGE value="Lauffähige Version" />
+    <MESSAGE value="Optimierung eingebaut." />
+    <MESSAGE value="Aktueller Stand" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aktueller Stand" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="hillClimbingRunner.isInterrupted()" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
